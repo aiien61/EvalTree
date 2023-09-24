@@ -43,7 +43,7 @@ We would like to express our gratitude to the contributors of the M4 forecasting
 
 ## Contact
 
-For any inquiries or collaboration opportunities, please contact [Your Name](mailto:your.email@example.com).
+For any inquiries or collaboration opportunities, please contact [Will Kuan](mailto:will.kuan@iss.nthu.edu.tw).
 
 ---
 
